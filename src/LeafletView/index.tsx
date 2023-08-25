@@ -38,8 +38,6 @@ const LEAFLET_HTML_SOURCE = () => {
 
 const DEFAULT_MAP_LAYERS = [
   {
-    attribution:
-      '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
     baseLayerIsChecked: true,
     baseLayerName: 'OpenStreetMap.Mapnik',
     url: 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',

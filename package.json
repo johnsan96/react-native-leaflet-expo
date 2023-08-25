@@ -36,13 +36,13 @@
     "ios",
     "android"
   ],
-  "repository": "https://github.com/pavel-corsaghin/react-native-leaflet",
-  "author": "Hung Nguyen <hungnm.k52tnvlkt@gmail.com> (https://github.com/pavel-corsaghin)",
+  "repository": "https://github.com/johnsan96/react-native-leaflet-expo",
+  "author": "johnsan96",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/pavel-corsaghin/react-native-leaflet/issues"
+    "url": "https://github.com/johnsan96/react-native-leaflet-expoissues"
   },
-  "homepage": "https://github.com/pavel-corsaghin/react-native-leaflet#readme",
+  "homepage": "https://github.com/johnsan96/react-native-leaflet-expo#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
